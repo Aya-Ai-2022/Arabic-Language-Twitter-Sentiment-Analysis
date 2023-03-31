@@ -1,7 +1,7 @@
 # Arabic-Language-Twitter-Sentiment-Analysis
 
 
-
+* This project was created by [Aya ](https://github.com/Aya-Ai-2022),[Gehad ](https://github.com/Gehad-16 ) and [Rana](https://github.com/20180104Rana).
 
 This project aims to perform sentiment analysis on Arabic language tweets using machine learning techniques. The objective of this project is to automatically classify tweets as positive, negative, or neutral based on the sentiment expressed in the tweet.
 
